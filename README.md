@@ -1,13 +1,11 @@
-# Angular First Timer's App
+# <span style="color:steelblue"> Angular First Timer's App </span>
 
-### Im About to Get Me a Shirt.
+### <span style="color:red">**Let's get Us a Shirt.**</span>
+# <span style="color:green">*****************************
 
-# *****************************
-
-  - Completely For Beginners 
-  - Sooooo If your aren't a beginner ......
-  - Please Leave
-
+ ### <span style="color: blue"> - Completely For Beginners </span>
+ ### <span style="color: pink " > - Sooooo If your aren't a beginner ......
+ ### <span style=" color: gold">- Please Leave
 ### Features!
 
   - Create you a Branch 
